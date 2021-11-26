@@ -253,7 +253,7 @@ function closeNav() {
     </div>
 
     <div style="width:100%; height:100%;  text-align:center">
-        <a href="index.html">
+        <a href="index.php">
             <button class="button button4">back to Menu</button>
         </a>
         <a href="finish.php" >
